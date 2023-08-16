@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: akshaypatil5596/products:replaceImageTag
+        image: akshaypatil5596/products:1
         ports:
         - containerPort: 3001
